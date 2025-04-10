@@ -9,24 +9,24 @@ Project consists of two classic arcade games, Pac-Man and Frogger, reimagined in
 <h2>Pac-Man</h2>
 Traverse a haunted maze while collecting point pellets. Avoid the ghosts following you around the halls!
 <br />
-
+<p align="center">
+Maze <br/>
+<img src="https://i.imgur.com/higFVWy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Point Pellet <br/>
+<img src="https://i.imgur.com/maD4eO1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ghost Design<br/>
+<img src="https://i.imgur.com/FuoTSlD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 <h2>Frogger</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/higFVWy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
