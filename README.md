@@ -25,7 +25,8 @@ Ghost Design<br/>
 </p>
 
 <h2>Frogger</h2>
-
+Cross the obstacles and avoid enemies!
+<br />
 <p align="center">
 Crossing a Street <br/>
 <img src="https://i.imgur.com/4hMy1aM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
